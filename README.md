@@ -110,9 +110,8 @@ CS fundamentals list (DBMS, OS, CN, OOP)
 Weekly plan for preparation
 🔐 Security Note
 
-Never expose your API Key in GitHub repositories.
-
-Use environment variables or .env file.
+Try it out:
+https://athurj.pythonanywhere.com/
 
 
 👨‍💻 Author
