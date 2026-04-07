@@ -1,7 +1,7 @@
 import os
 from openai import OpenAI
 
-client = OpenAI(api_key="xyz", base_url="https://api.deepseek.com")
+client = OpenAI(api_key="sk-1a377dab45c042df923a75ebf8ab5da1", base_url="https://api.deepseek.com")
 
 system_prompt='''
 You are an expert Interview Preparation Mentor specialized in Software Engineering placements.
